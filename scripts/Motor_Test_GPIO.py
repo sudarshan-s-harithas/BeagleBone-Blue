@@ -8,12 +8,12 @@ from time import sleep
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
  
-Motor1A = P9_14
-Motor1B = P9_13
-Motor1E = P9_12
-Motor2A = P9_11
-Motor2B = P9_10
-Motor2E = P9_9
+Motor1A = P8_7
+Motor1B = P8_8
+Motor1E = P8_9
+Motor2A = P8_10
+Motor2B = P8_11
+Motor2E = P8_12
 
 GPIO.setup(Motor1A,GPIO.OUT)
 GPIO.setup(Motor1B,GPIO.OUT)
