@@ -1,0 +1,19 @@
+Enter the Below commands in sequence to connect BeagleBone Blue to the Desired Wifi using conmanctl.
+
+ ssh ubuntu@192.168.7.2
+ sudo -s
+[enter the password for ubuntu:]
+connmanctl
+tether wifi off
+enable wifi
+scan wifi
+services
+connmanctl
+connmanctl> tether wifi off
+connmanctl> enable wifi
+connmanctl> scan wifi
+connmanctl> services
+connmanctl> agent on
+connmanctl> connect wifi_f45eab2f1ee1_6372797774616c_managed_psk
+connmanctl> quit
+exit
