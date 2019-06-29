@@ -1,6 +1,6 @@
 
 #########Author - Sudarshan ###########
-#######File Name - Motor_Test_beaglebone.py##########
+#######File Name - Motor_Test_beaglebone.py (tested for beagle bone Black)#########
 
 import Adafruit_BBIO.GPIO as GPIO
 from time import sleep
