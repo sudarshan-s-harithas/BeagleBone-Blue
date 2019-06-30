@@ -12,10 +12,12 @@ BeagleBone® Blue is an all-in-one Linux-based computer for robotics, integratin
 
 ## Scripts 
 
-There are presently 2 Programs, the Bluetooth_Publisher_Ros.py and Motor_Test_GPIO.py.
+There are presently 3 Programs, the Bluetooth_Publisher_Ros.py and Motor_Test_GPIO.py , Bluetooth_BeagleBone_Blue.py.
 
 To Run **Bluetooth_Publisher_Ros.py** , ROS has to be installed on the Board this program recieves the data throgh a mobile App ( Say: Blueterm), and then publishes this data as a ROS topic.
 
 The **Motor_Test_GPIO.py** , enables you to control the motor through an external motor driver and GPIO pins on BeagleBone Blue
+
+The **Bluetooth_BeagleBone_Blue.py**, just recieves the data from Blueterm and prints the recieved data (Ros is not necessary for this program).
 
 
