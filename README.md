@@ -8,3 +8,7 @@ BeagleBone® Blue is an all-in-one Linux-based computer for robotics, integratin
 
 **Datasheet** - Consist of the Datasheet of BeagleBone Blue and it Diagram discribing its various features 
 
+**Scripts**   - This folder has python programs
+
+
+
