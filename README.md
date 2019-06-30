@@ -4,3 +4,6 @@ BeagleBone® Blue is an all-in-one Linux-based computer for robotics, integratin
 
 ## Repository Contents
 
+Bringup   - Consist of Instructions to setup the BeagleBone Blue and Connect it to a Wifi 
+Datasheet - Consist of the Datasheet of BeagleBone Blue and it Diagram discribing its various features 
+
