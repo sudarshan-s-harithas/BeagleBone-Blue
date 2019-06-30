@@ -10,5 +10,8 @@ BeagleBone® Blue is an all-in-one Linux-based computer for robotics, integratin
 
 **Scripts**   - This folder has python programs
 
+## Scripts 
+
+There are presently 2 Programs, the 
 
 
